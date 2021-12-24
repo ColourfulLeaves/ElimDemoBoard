@@ -1,12 +1,10 @@
-# ElimDesktop
+# ElimDemoBoard
 
-This is the desktop app from Elim Demo board. It is writen by python+Qt5. It shows the real temperature measured by Elim. It is also a tiny http server which browser can read more information.
-
-
-# ElimDesktop
-这是Elim Domo板对应的桌面软件。 它可以实时显示Elim模块测得的温度。同时，它也内嵌了一个微型的Http服务器。用户可以通过浏览器查阅Elim的更多的信息。
+This is the firmware of Elim DemoBoard. Elim DemoBoard is based on WeAct STM32F411 Core board. 
 
 
-![ElimDesktop](https://github.com/ColourfulLeaves/ElimDesktop/raw/master/Snapshots/1.PNG)
+# ElimDemoBoard
+这是Elim Demo板的软件。 Elim Demo板采用了WeAct的411核心板开发。
 
-![WebPage](https://github.com/ColourfulLeaves/ElimDesktop/raw/master/Snapshots/2.PNG)
+![Elim DemoBoard](https://github.com/ColourfulLeaves/ElimDesktop/raw/master/Snapshots/1.PNG)
+
