@@ -6,5 +6,5 @@ This is the firmware of Elim DemoBoard. Elim DemoBoard is based on WeAct STM32F4
 # ElimDemoBoard
 这是Elim Demo板的软件。 Elim Demo板采用了WeAct的411核心板开发。
 
-![Elim DemoBoard](https://github.com/ColourfulLeaves/ElimDesktop/raw/master/Snapshots/1.PNG)
+![Elim DemoBoard](https://github.com/ColourfulLeaves/ElimDemoBoard/raw/master/Snapshots/1.jpg)
 
